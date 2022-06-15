@@ -41,4 +41,4 @@ Please let us know which chain restaurant you frequent most often.
 - なか卵
 - Baskin Robbins
 - サイゼリア
-
+- マクド
