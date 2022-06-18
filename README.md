@@ -33,3 +33,4 @@ Please tell me your useful application or software for research.
 12. Alfread
 13. Docker
 14. Intellij idea
+15. Good Notes
