@@ -28,5 +28,10 @@ Please tell me your useful application or software for research.
 7. Google Drive
 8. Dropbox
 9. Overleaf
-10. your idea!
-11. Affinity
+10. Pycharm
+11. Zotero
+12. Alfread
+13. Docker
+14. Intellij idea
+15. Good Notes
+16. Affinity
