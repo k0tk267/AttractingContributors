@@ -34,3 +34,4 @@ Please tell me your useful application or software for research.
 13. Docker
 14. Intellij idea
 15. Good Notes
+16. Affinity
