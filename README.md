@@ -26,4 +26,5 @@ Please tell me about your local foods. <br/>
 3. lemon(Hiroshima)
 4. nijiiro cafe (Nara)
 5. Kuroge wagyu(Kumamoto)
+6. Kabosu (Oita)
 
