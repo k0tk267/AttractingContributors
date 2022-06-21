@@ -36,3 +36,4 @@ Please tell me your useful application or software for research.
 15. Good Notes
 16. Affinity
 17. Pocket
+18. Visual Studio Code
