@@ -35,4 +35,7 @@ Please tell me your useful application or software for research.
 14. Intellij idea
 15. Good Notes
 16. Affinity
-17. Paperpile
+17. Pocket
+18. Visual Studio Code
+19. Microsoft Excel
+20. Paperpile
